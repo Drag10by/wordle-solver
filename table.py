@@ -1,6 +1,7 @@
 def tablo(words):
 
-	row = 6	column,b = divmod(len(words),row)
+	row = 6	
+	column,b = divmod(len(words),row)
 
 	x = 6
 
