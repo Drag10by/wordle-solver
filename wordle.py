@@ -36,7 +36,7 @@ def ekle(num,k):
 
 	return "".join(set(num))
 
-	def yerlestir():
+def yerlestir():
 
 	global sifir
 
